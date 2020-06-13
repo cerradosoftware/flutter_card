@@ -10,3 +10,5 @@ Criar um app que simula um cartão de visita, com o objetivo de estudar componen
 * SizedBox
 
 ## Screenshot
+
+![Screenshoot](https://github.com/cerradosoftware/flutter_card/blob/master/screen.png)
